@@ -1,176 +1,586 @@
-Tue Apr 19 15:03:28 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 15:05:04 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 15:05:24 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 15:06:47 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 15:12:22 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 15:17:31 BST 2016 Temp = 32 *C, Hum = 8 %
-Tue Apr 19 15:22:32 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:24:38 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 16:25:14 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:26:54 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:30:26 BST 2016 Temp = 76 *C, Hum = 114 %
-Tue Apr 19 16:30:49 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:31:45 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:31:51 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 16:34:52 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:42:41 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:43:24 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:45:15 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 16:46:38 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:48:57 BST 2016 Temp = 76 *C, Hum = 114 %
-Tue Apr 19 16:56:04 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 16:58:31 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 17:01:53 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:04:36 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 17:05:05 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 17:09:05 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:09:32 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:09:58 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:14:42 BST 2016 Temp = 6 *C, Hum = 10 %
-Tue Apr 19 17:14:51 BST 2016 Temp = 22 *C, Hum = 26 %
-Tue Apr 19 17:15:28 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 17:17:13 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 17:18:03 BST 2016 Temp = 32 *C, Hum = 8 %
-Tue Apr 19 17:19:32 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:20:07 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:22:03 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:22:29 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 17:23:10 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:24:31 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 17:24:41 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:26:37 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:29:01 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:32:29 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:34:05 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:38:29 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:41:26 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:42:36 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:46:27 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:50:29 BST 2016 Temp = 32 *C, Hum = 8 %
-Tue Apr 19 17:54:04 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 17:57:53 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 17:58:30 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:02:36 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:03:10 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:04:23 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 18:06:24 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:07:48 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 18:13:23 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:14:56 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 18:17:18 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:18:49 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:22:52 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:25:36 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:26:45 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:31:05 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:33:17 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:36:53 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:37:09 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:38:48 BST 2016 Temp = 0 *C, Hum = 40 %
-Tue Apr 19 18:47:00 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:48:47 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:48:49 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:49:18 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:50:01 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:51:27 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 18:55:31 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:03:37 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:10:24 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 19:13:24 BST 2016 Temp = 0 *C, Hum = 40 %
-Tue Apr 19 19:15:59 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:18:59 BST 2016 Temp = 79 *C, Hum = 114 %
-Tue Apr 19 19:22:34 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:23:07 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:23:31 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:23:37 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:32:21 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:35:32 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:38:44 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:46:16 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 19:49:08 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:51:14 BST 2016 Temp = 32 *C, Hum = 8 %
-Tue Apr 19 19:52:13 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:54:21 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 19:55:31 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 20:00:00 BST 2016 Temp = 0 *C, Hum = 40 %
-Tue Apr 19 20:13:34 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 20:19:33 BST 2016 Temp = 0 *C, Hum = 40 %
-Tue Apr 19 20:31:23 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 20:37:26 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 20:38:46 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 20:39:03 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 20:43:52 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 20:46:41 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 20:50:15 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 20:51:26 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 20:52:01 BST 2016 Temp = 0 *C, Hum = 40 %
-Tue Apr 19 20:52:19 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 20:52:24 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:01:32 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:14:03 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:18:03 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:18:28 BST 2016 Temp = 32 *C, Hum = 8 %
-Tue Apr 19 21:19:45 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:20:09 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 21:20:55 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:21:05 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:24:48 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:25:50 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:27:15 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:27:33 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:27:37 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:30:07 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:32:21 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 21:34:36 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:34:46 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:35:57 BST 2016 Temp = 0 *C, Hum = 40 %
-Tue Apr 19 21:38:56 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:41:15 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:41:23 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:45:48 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 21:48:06 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:49:24 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 21:57:25 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 21:59:20 BST 2016 Temp = 0 *C, Hum = 40 %
-Tue Apr 19 22:00:55 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:07:06 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:09:09 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:11:23 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:15:19 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 22:16:32 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 22:20:25 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:21:56 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:22:14 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:23:05 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 22:28:34 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 22:32:42 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:33:30 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:33:49 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 22:36:32 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:45:28 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:47:07 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:48:44 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:49:18 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:50:25 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:52:37 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:53:28 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:59:42 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 22:59:50 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:03:25 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:03:37 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:04:33 BST 2016 Temp = 22 *C, Hum = 20 %
-Tue Apr 19 23:08:43 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 23:12:37 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:15:18 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 23:16:02 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:16:06 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:18:45 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:25:05 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:33:59 BST 2016 Temp = 32 *C, Hum = 8 %
-Tue Apr 19 23:35:24 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 23:36:43 BST 2016 Temp = 20 *C, Hum = 20 %
-Tue Apr 19 23:37:23 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:37:37 BST 2016 Temp = 22 *C, Hum = 20 %
-Tue Apr 19 23:38:13 BST 2016 Temp = 22 *C, Hum = 20 %
-Tue Apr 19 23:39:25 BST 2016 Temp = 21 *C, Hum = 20 %
-Tue Apr 19 23:40:23 BST 2016 Temp = 20 *C, Hum = 20 %
+Wed Apr 20 23:09:57 BST 2016 Temp = 21 *C, Hum = 20 %
+04/20/16:23 Temp 21 Hum 20
+04/20/16:23 Temp 21 Hum 20
+04/21/16:00 Temp 21 Hum 20
+04/21/16:01 Temp 21 Hum 20
+04/21/16:01 Temp 21 Hum 20
+04/21/16 01:09 = *C, =
+04/21/16 01:09 = *C, =
+04/21/16 01:16 Temp 21 Hum 20
+04/21/16 01:18 Temp 21 Hum 20
+04/21/16 01:20 Temp 21 Hum 20
+04/21/16 01:22 Temp 21 Hum 20
+04/21/16 01:23 Temp 21 Hum 20
+04/21/16 01:24 Temp 21 Hum 20
+04/21/16 01:24 Temp 21 Hum 20
+04/21/16 01:25 Temp 21 Hum 20
+04/21/16 01:27 Temp 21 Hum 20
+04/21/16 01:29 Temp 21 Hum 20
+04/21/16 01:30 Temp 21 Hum 20
+04/21/16 01:30 Temp 21 Hum 20
+04/21/16 01:33 Temp 21 Hum 20
+04/21/16 01:36 Temp 21 Hum 20
+04/21/16 01:37 Temp 21 Hum 20
+04/21/16 01:39 Temp 21 Hum 20
+04/21/16 01:40 Temp 21 Hum 20
+04/21/16 01:40 Temp 21 Hum 20
+04/21/16 01:41 Temp 21 Hum 20
+04/21/16 01:43 Temp 20 Hum 20
+04/21/16 01:43 Temp 21 Hum 20
+04/21/16 01:44 Temp 20 Hum 21
+04/21/16 01:44 Temp 20 Hum 21
+04/21/16 01:48 Temp 20 Hum 21
+04/21/16 01:48 Temp 20 Hum 21
+04/21/16 01:49 Temp 20 Hum 21
+04/21/16 01:49 Temp 20 Hum 21
+04/21/16 01:49 Temp 20 Hum 21
+04/21/16 01:50 Temp 20 Hum 21
+04/21/16 01:52 Temp 20 Hum 21
+04/21/16 01:53 Temp 20 Hum 21
+04/21/16 01:54 Temp 20 Hum 21
+04/21/16 01:55 Temp 20 Hum 20
+04/21/16 01:56 Temp 20 Hum 21
+04/21/16 01:57 Temp 20 Hum 21
+04/21/16 02:02 Temp 20 Hum 21
+04/21/16 02:02 Temp 20 Hum 21
+04/21/16 02:03 Temp 20 Hum 21
+04/21/16 02:03 Temp 20 Hum 21
+04/21/16 02:05 Temp 20 Hum 21
+04/21/16 02:07 Temp 20 Hum 21
+04/21/16 02:08 Temp 20 Hum 21
+04/21/16 02:08 Temp 20 Hum 21
+04/21/16 02:09 Temp 20 Hum 21
+04/21/16 02:10 Temp 20 Hum 21
+04/21/16 02:10 Temp 20 Hum 21
+04/21/16 02:11 Temp 20 Hum 21
+04/21/16 02:13 Temp 20 Hum 21
+04/21/16 02:15 Temp 20 Hum 21
+04/21/16 02:16 Temp 20 Hum 21
+04/21/16 02:18 Temp 20 Hum 21
+04/21/16 02:19 Temp 20 Hum 21
+04/21/16 02:22 Temp 20 Hum 21
+04/21/16 02:23 Temp 20 Hum 21
+04/21/16 02:25 Temp 20 Hum 21
+04/21/16 02:25 Temp 20 Hum 21
+04/21/16 02:26 Temp 20 Hum 21
+04/21/16 02:27 Temp 20 Hum 21
+04/21/16 02:32 Temp 20 Hum 21
+04/21/16 02:34 Temp 20 Hum 21
+04/21/16 02:34 Temp 20 Hum 21
+04/21/16 02:37 Temp 20 Hum 21
+04/21/16 02:38 Temp 20 Hum 21
+04/21/16 02:38 Temp 20 Hum 21
+04/21/16 02:41 Temp 20 Hum 21
+04/21/16 02:41 Temp 20 Hum 21
+04/21/16 02:41 Temp 20 Hum 21
+04/21/16 02:42 Temp 20 Hum 21
+04/21/16 02:46 Temp 20 Hum 21
+04/21/16 02:46 Temp 20 Hum 21
+04/21/16 02:47 Temp 20 Hum 21
+04/21/16 02:49 Temp 20 Hum 21
+04/21/16 02:55 Temp 20 Hum 21
+04/21/16 02:56 Temp 20 Hum 21
+04/21/16 02:59 Temp 20 Hum 21
+04/21/16 03:01 Temp 20 Hum 21
+04/21/16 03:05 Temp 20 Hum 21
+04/21/16 03:06 Temp 20 Hum 21
+04/21/16 03:06 Temp 20 Hum 21
+04/21/16 03:08 Temp 20 Hum 21
+04/21/16 03:11 Temp 20 Hum 21
+04/21/16 03:12 Temp 20 Hum 21
+04/21/16 03:13 Temp 20 Hum 21
+04/21/16 03:14 Temp 20 Hum 21
+04/21/16 03:16 Temp 20 Hum 21
+04/21/16 03:18 Temp 20 Hum 21
+04/21/16 03:20 Temp 20 Hum 21
+04/21/16 03:21 Temp 20 Hum 21
+04/21/16 03:23 Temp 20 Hum 21
+04/21/16 03:28 Temp 20 Hum 21
+04/21/16 03:30 Temp 20 Hum 21
+04/21/16 03:34 Temp 20 Hum 21
+04/21/16 03:34 Temp 20 Hum 21
+04/21/16 03:45 Temp 20 Hum 21
+04/21/16 03:46 Temp 20 Hum 21
+04/21/16 03:47 Temp 20 Hum 21
+04/21/16 03:48 Temp 20 Hum 21
+04/21/16 03:50 Temp 20 Hum 21
+04/21/16 03:52 Temp 20 Hum 21
+04/21/16 03:54 Temp 20 Hum 21
+04/21/16 03:54 Temp 20 Hum 21
+04/21/16 03:55 Temp 20 Hum 21
+04/21/16 03:56 Temp 20 Hum 20
+04/21/16 03:56 Temp 20 Hum 21
+04/21/16 03:58 Temp 20 Hum 21
+04/21/16 04:00 Temp 20 Hum 21
+04/21/16 04:01 Temp 20 Hum 21
+04/21/16 04:02 Temp 20 Hum 21
+04/21/16 04:03 Temp 20 Hum 21
+04/21/16 04:06 Temp 20 Hum 21
+04/21/16 04:08 Temp 20 Hum 21
+04/21/16 04:08 Temp 20 Hum 21
+04/21/16 04:10 Temp 20 Hum 21
+04/21/16 04:10 Temp 20 Hum 21
+04/21/16 04:11 Temp 20 Hum 21
+04/21/16 04:13 Temp 20 Hum 21
+04/21/16 04:15 Temp 20 Hum 21
+04/21/16 04:17 Temp 20 Hum 21
+04/21/16 04:19 Temp 20 Hum 21
+04/21/16 04:20 Temp 20 Hum 21
+04/21/16 04:21 Temp 20 Hum 21
+04/21/16 04:29 Temp 20 Hum 21
+04/21/16 04:29 Temp 20 Hum 21
+04/21/16 04:33 Temp 20 Hum 21
+04/21/16 04:34 Temp 20 Hum 21
+04/21/16 04:35 Temp 20 Hum 21
+04/21/16 04:38 Temp 20 Hum 21
+04/21/16 04:39 Temp 20 Hum 21
+04/21/16 04:39 Temp 20 Hum 21
+04/21/16 04:40 Temp 20 Hum 21
+04/21/16 04:41 Temp 20 Hum 21
+04/21/16 04:41 Temp 20 Hum 21
+04/21/16 04:45 Temp 20 Hum 21
+04/21/16 04:45 Temp 20 Hum 21
+04/21/16 04:46 Temp 20 Hum 21
+04/21/16 04:48 Temp 20 Hum 21
+04/21/16 04:50 Temp 20 Hum 21
+04/21/16 04:52 Temp 20 Hum 21
+04/21/16 04:53 Temp 20 Hum 21
+04/21/16 04:54 Temp 20 Hum 21
+04/21/16 04:55 Temp 20 Hum 21
+04/21/16 04:59 Temp 20 Hum 21
+04/21/16 05:00 Temp 20 Hum 21
+04/21/16 05:01 Temp 20 Hum 21
+04/21/16 05:02 Temp 20 Hum 21
+04/21/16 05:03 Temp 20 Hum 21
+04/21/16 05:10 Temp 20 Hum 21
+04/21/16 05:12 Temp 20 Hum 21
+04/21/16 05:13 Temp 20 Hum 21
+04/21/16 05:14 Temp 20 Hum 21
+04/21/16 05:14 Temp 20 Hum 21
+04/21/16 05:17 Temp 20 Hum 21
+04/21/16 05:18 Temp 20 Hum 21
+04/21/16 05:19 Temp 20 Hum 21
+04/21/16 05:19 Temp 20 Hum 21
+04/21/16 05:20 Temp 20 Hum 21
+04/21/16 05:22 Temp 20 Hum 21
+04/21/16 05:22 Temp 20 Hum 21
+04/21/16 05:22 Temp 20 Hum 21
+04/21/16 05:23 Temp 20 Hum 21
+04/21/16 05:25 Temp 20 Hum 21
+04/21/16 05:26 Temp 20 Hum 21
+04/21/16 05:27 Temp 20 Hum 21
+04/21/16 05:29 Temp 20 Hum 21
+04/21/16 05:29 Temp 20 Hum 21
+04/21/16 05:31 Temp 21 Hum 20
+04/21/16 05:33 Temp 20 Hum 21
+04/21/16 05:35 Temp 20 Hum 21
+04/21/16 05:38 Temp 20 Hum 21
+04/21/16 05:39 Temp 20 Hum 21
+04/21/16 05:41 Temp 20 Hum 21
+04/21/16 05:41 Temp 20 Hum 21
+04/21/16 05:43 Temp 20 Hum 21
+04/21/16 05:48 Temp 21 Hum 20
+04/21/16 05:51 Temp 20 Hum 21
+04/21/16 05:53 Temp 20 Hum 21
+04/21/16 05:55 Temp 20 Hum 21
+04/21/16 05:56 Temp 20 Hum 21
+04/21/16 05:57 Temp 20 Hum 21
+04/21/16 05:57 Temp 21 Hum 20
+04/21/16 06:01 Temp 20 Hum 21
+04/21/16 06:04 Temp 21 Hum 20
+04/21/16 06:06 Temp 21 Hum 20
+04/21/16 06:07 Temp 20 Hum 21
+04/21/16 06:09 Temp 20 Hum 21
+04/21/16 06:11 Temp 21 Hum 20
+04/21/16 06:12 Temp 21 Hum 20
+04/21/16 06:13 Temp 21 Hum 20
+04/21/16 06:17 Temp 21 Hum 20
+04/21/16 06:21 Temp 21 Hum 20
+04/21/16 06:21 Temp 21 Hum 20
+04/21/16 06:25 Temp 21 Hum 20
+04/21/16 06:27 Temp 21 Hum 20
+04/21/16 06:33 Temp 21 Hum 20
+04/21/16 06:34 Temp 21 Hum 20
+04/21/16 06:40 Temp 21 Hum 20
+04/21/16 06:41 Temp 21 Hum 20
+04/21/16 06:41 Temp 21 Hum 20
+04/21/16 06:42 Temp 21 Hum 20
+04/21/16 06:43 Temp 21 Hum 20
+04/21/16 06:44 Temp 21 Hum 20
+04/21/16 06:46 Temp 21 Hum 20
+04/21/16 06:46 Temp 21 Hum 20
+04/21/16 06:55 Temp 21 Hum 20
+04/21/16 06:58 Temp 21 Hum 20
+04/21/16 06:58 Temp 21 Hum 20
+04/21/16 06:59 Temp 20 Hum 20
+04/21/16 07:00 Temp 21 Hum 20
+04/21/16 07:00 Temp 21 Hum 20
+04/21/16 07:01 Temp 21 Hum 20
+04/21/16 07:04 Temp 21 Hum 20
+04/21/16 07:04 Temp 21 Hum 20
+04/21/16 07:05 Temp 21 Hum 20
+04/21/16 07:05 Temp 21 Hum 20
+04/21/16 07:06 Temp 21 Hum 20
+04/21/16 07:07 Temp 21 Hum 20
+04/21/16 07:08 Temp 20 Hum 20
+04/21/16 07:08 Temp 21 Hum 20
+04/21/16 07:10 Temp 21 Hum 20
+04/21/16 07:10 Temp 21 Hum 20
+04/21/16 07:10 Temp 21 Hum 20
+04/21/16 07:11 Temp 21 Hum 20
+04/21/16 07:11 Temp 21 Hum 20
+04/21/16 07:12 Temp 21 Hum 20
+04/21/16 07:13 Temp 21 Hum 4
+04/21/16 07:17 Temp 21 Hum 20
+04/21/16 07:17 Temp 21 Hum 20
+04/21/16 07:18 Temp 21 Hum 20
+04/21/16 07:19 Temp 21 Hum 20
+04/21/16 07:21 Temp 21 Hum 20
+04/21/16 07:23 Temp 21 Hum 20
+04/21/16 07:23 Temp 21 Hum 20
+04/21/16 07:23 Temp 21 Hum 20
+04/21/16 07:24 Temp 21 Hum 20
+04/21/16 07:24 Temp 21 Hum 20
+04/21/16 07:28 Temp 21 Hum 20
+04/21/16 07:30 Temp 21 Hum 20
+04/21/16 07:34 Temp 21 Hum 20
+04/21/16 07:34 Temp 21 Hum 20
+04/21/16 07:34 Temp 21 Hum 20
+04/21/16 07:34 Temp 21 Hum 20
+04/21/16 07:37 Temp 21 Hum 20
+04/21/16 07:37 Temp 21 Hum 20
+04/21/16 07:41 Temp 21 Hum 20
+04/21/16 07:41 Temp 21 Hum 20
+04/21/16 07:42 Temp 21 Hum 20
+04/21/16 07:43 Temp 21 Hum 20
+04/21/16 07:45 Temp 21 Hum 20
+04/21/16 07:45 Temp 21 Hum 20
+04/21/16 07:47 Temp 21 Hum 20
+04/21/16 07:48 Temp 21 Hum 20
+04/21/16 07:49 Temp 21 Hum 20
+04/21/16 07:50 Temp 21 Hum 20
+04/21/16 07:51 Temp 21 Hum 20
+04/21/16 07:52 Temp 21 Hum 20
+04/21/16 07:53 Temp 21 Hum 20
+04/21/16 07:54 Temp 21 Hum 20
+04/21/16 07:58 Temp 21 Hum 20
+04/21/16 07:59 Temp 21 Hum 20
+04/21/16 07:59 Temp 21 Hum 20
+04/21/16 08:01 Temp 20 Hum 20
+04/21/16 08:01 Temp 21 Hum 20
+04/21/16 08:01 Temp 21 Hum 20
+04/21/16 08:04 Temp 21 Hum 20
+04/21/16 08:04 Temp 21 Hum 20
+04/21/16 08:08 Temp 21 Hum 20
+04/21/16 08:09 Temp 21 Hum 20
+04/21/16 08:10 Temp 21 Hum 20
+04/21/16 08:11 Temp 21 Hum 20
+04/21/16 08:12 Temp 21 Hum 20
+04/21/16 08:12 Temp 21 Hum 20
+04/21/16 08:12 Temp 21 Hum 20
+04/21/16 08:13 Temp 21 Hum 20
+04/21/16 08:16 Temp 21 Hum 20
+04/21/16 08:18 Temp 21 Hum 20
+04/21/16 08:18 Temp 21 Hum 20
+04/21/16 08:22 Temp 21 Hum 20
+04/21/16 08:25 Temp 21 Hum 20
+04/21/16 08:25 Temp 21 Hum 20
+04/21/16 08:28 Temp 21 Hum 20
+04/21/16 08:29 Temp 21 Hum 20
+04/21/16 08:33 Temp 0 Hum 40
+04/21/16 08:33 Temp 21 Hum 20
+04/21/16 08:36 Temp 21 Hum 20
+04/21/16 08:36 Temp 21 Hum 20
+04/21/16 08:37 Temp 21 Hum 20
+04/21/16 08:38 Temp 21 Hum 20
+04/21/16 08:38 Temp 21 Hum 20
+04/21/16 08:41 Temp 21 Hum 20
+04/21/16 08:42 Temp 21 Hum 20
+04/21/16 08:42 Temp 21 Hum 20
+04/21/16 08:43 Temp 21 Hum 20
+04/21/16 08:46 Temp 21 Hum 20
+04/21/16 08:47 Temp 21 Hum 20
+04/21/16 08:50 Temp 21 Hum 20
+04/21/16 08:51 Temp 21 Hum 20
+04/21/16 08:51 Temp 21 Hum 20
+04/21/16 08:55 Temp 21 Hum 20
+04/21/16 08:56 Temp 21 Hum 20
+04/21/16 08:57 Temp 21 Hum 20
+04/21/16 08:58 Temp 21 Hum 20
+04/21/16 08:58 Temp 21 Hum 20
+04/21/16 09:00 Temp 21 Hum 20
+04/21/16 09:02 Temp 21 Hum 20
+04/21/16 09:02 Temp 21 Hum 20
+04/21/16 09:03 Temp 21 Hum 20
+04/21/16 09:03 Temp 21 Hum 20
+04/21/16 09:03 Temp 21 Hum 20
+04/21/16 09:03 Temp 21 Hum 20
+04/21/16 09:04 Temp 21 Hum 20
+04/21/16 09:05 Temp 21 Hum 20
+04/21/16 09:08 Temp 21 Hum 20
+04/21/16 09:08 Temp 20 Hum 20
+04/21/16 09:11 Temp 21 Hum 20
+04/21/16 09:11 Temp 21 Hum 20
+04/21/16 09:15 Temp 21 Hum 20
+04/21/16 09:17 Temp 21 Hum 20
+04/21/16 09:23 Temp 21 Hum 20
+04/21/16 09:23 Temp 21 Hum 20
+04/21/16 09:24 Temp 21 Hum 20
+04/21/16 09:27 Temp 21 Hum 20
+04/21/16 09:27 Temp 21 Hum 20
+04/21/16 09:30 Temp 21 Hum 20
+04/21/16 09:32 Temp 21 Hum 20
+04/21/16 09:33 Temp 67 Hum 115
+04/21/16 09:34 Temp 21 Hum 20
+04/21/16 09:34 Temp 21 Hum 20
+04/21/16 09:35 Temp 21 Hum 20
+04/21/16 09:39 Temp 20 Hum 20
+04/21/16 09:40 Temp 21 Hum 20
+04/21/16 09:41 Temp 21 Hum 20
+04/21/16 09:42 Temp 21 Hum 20
+04/21/16 09:43 Temp 21 Hum 20
+04/21/16 09:43 Temp 21 Hum 20
+04/21/16 09:44 Temp 21 Hum 20
+04/21/16 09:44 Temp 21 Hum 20
+04/21/16 09:45 Temp 21 Hum 20
+04/21/16 09:48 Temp 21 Hum 20
+04/21/16 09:51 Temp 21 Hum 20
+04/21/16 09:52 Temp 21 Hum 20
+04/21/16 09:53 Temp 21 Hum 20
+04/21/16 09:53 Temp 21 Hum 20
+04/21/16 09:53 Temp 21 Hum 20
+04/21/16 09:55 Temp 21 Hum 20
+04/21/16 09:56 Temp 21 Hum 20
+04/21/16 09:56 Temp 21 Hum 20
+04/21/16 09:59 Temp 22 Hum 20
+04/21/16 10:00 Temp 22 Hum 20
+04/21/16 10:00 Temp 22 Hum 20
+04/21/16 10:01 Temp 22 Hum 20
+04/21/16 10:03 Temp 22 Hum 20
+04/21/16 10:03 Temp 22 Hum 20
+04/21/16 10:03 Temp 22 Hum 20
+04/21/16 10:04 Temp 22 Hum 20
+04/21/16 10:04 Temp 22 Hum 20
+04/21/16 10:06 Temp 22 Hum 20
+04/21/16 10:06 Temp 22 Hum 20
+04/21/16 10:09 Temp 22 Hum 20
+04/21/16 10:13 Temp 22 Hum 20
+04/21/16 10:14 Temp 22 Hum 20
+04/21/16 10:14 Temp 22 Hum 20
+04/21/16 10:15 Temp 22 Hum 20
+04/21/16 10:17 Temp 22 Hum 20
+04/21/16 10:20 Temp 22 Hum 20
+04/21/16 10:21 Temp 22 Hum 20
+04/21/16 10:21 Temp 22 Hum 20
+04/21/16 10:22 Temp 22 Hum 20
+04/21/16 10:24 Temp 22 Hum 20
+04/21/16 10:27 Temp 22 Hum 20
+04/21/16 10:27 Temp 65 Hum 115
+04/21/16 10:27 Temp 22 Hum 20
+04/21/16 10:28 Temp 22 Hum 20
+04/21/16 10:32 Temp 22 Hum 20
+04/21/16 10:32 Temp 22 Hum 20
+04/21/16 10:33 Temp 22 Hum 20
+04/21/16 10:34 Temp 22 Hum 20
+04/21/16 10:37 Temp 22 Hum 20
+04/21/16 10:37 Temp 22 Hum 20
+04/21/16 10:37 Temp 22 Hum 20
+04/21/16 10:39 Temp 22 Hum 20
+04/21/16 10:40 Temp 22 Hum 20
+04/21/16 10:42 Temp 22 Hum 20
+04/21/16 10:42 Temp 22 Hum 20
+04/21/16 10:44 Temp 22 Hum 20
+04/21/16 10:46 Temp 22 Hum 20
+04/21/16 10:46 Temp 22 Hum 20
+04/21/16 10:49 Temp 23 Hum 19
+04/21/16 10:49 Temp 23 Hum 19
+04/21/16 10:50 Temp 23 Hum 19
+04/21/16 10:53 Temp 23 Hum 19
+04/21/16 10:53 Temp 23 Hum 19
+04/21/16 10:55 Temp 23 Hum 19
+04/21/16 10:56 Temp 23 Hum 19
+04/21/16 10:57 Temp 23 Hum 19
+04/21/16 10:58 Temp 23 Hum 19
+04/21/16 10:58 Temp 23 Hum 19
+04/21/16 10:59 Temp 23 Hum 19
+04/21/16 10:59 Temp 23 Hum 19
+04/21/16 10:59 Temp 23 Hum 19
+04/21/16 11:00 Temp 23 Hum 19
+04/21/16 11:00 Temp 23 Hum 19
+04/21/16 11:00 Temp 23 Hum 19
+04/21/16 11:02 Temp 23 Hum 19
+04/21/16 11:03 Temp 23 Hum 19
+04/21/16 11:05 Temp 23 Hum 19
+04/21/16 11:05 Temp 23 Hum 19
+04/21/16 11:06 Temp 23 Hum 19
+04/21/16 11:06 Temp 23 Hum 19
+04/21/16 11:07 Temp 23 Hum 19
+04/21/16 11:07 Temp 23 Hum 19
+04/21/16 11:07 Temp 23 Hum 19
+04/21/16 11:07 Temp 23 Hum 19
+04/21/16 11:10 Temp 23 Hum 19
+04/21/16 11:12 Temp 23 Hum 19
+04/21/16 11:14 Temp 23 Hum 19
+04/21/16 11:16 Temp 23 Hum 19
+04/21/16 11:16 Temp 23 Hum 19
+04/21/16 11:17 Temp 23 Hum 19
+04/21/16 11:18 Temp 23 Hum 19
+04/21/16 11:19 Temp 23 Hum 19
+04/21/16 11:21 Temp 23 Hum 19
+04/21/16 11:22 Temp 23 Hum 19
+04/21/16 11:22 Temp 23 Hum 19
+04/21/16 11:27 Temp 23 Hum 19
+04/21/16 11:28 Temp 23 Hum 19
+04/21/16 11:30 Temp 23 Hum 19
+04/21/16 11:31 Temp 23 Hum 19
+04/21/16 11:31 Temp 23 Hum 19
+04/21/16 11:32 Temp 23 Hum 19
+04/21/16 11:32 Temp 23 Hum 19
+04/21/16 11:32 Temp 23 Hum 19
+04/21/16 11:35 Temp 23 Hum 19
+04/21/16 11:36 Temp 24 Hum 19
+04/21/16 11:38 Temp 24 Hum 19
+04/21/16 11:39 Temp 24 Hum 19
+04/21/16 11:41 Temp 24 Hum 19
+04/21/16 11:45 Temp 24 Hum 19
+04/21/16 11:45 Temp 24 Hum 19
+04/21/16 11:52 Temp 24 Hum 19
+04/21/16 11:54 Temp 24 Hum 19
+04/21/16 11:54 Temp 24 Hum 19
+04/21/16 11:55 Temp 24 Hum 19
+04/21/16 11:55 Temp 24 Hum 19
+04/21/16 11:56 Temp 24 Hum 19
+04/21/16 11:58 Temp 24 Hum 19
+04/21/16 11:58 Temp 24 Hum 19
+04/21/16 11:59 Temp 24 Hum 19
+04/21/16 12:00 Temp 24 Hum 19
+04/21/16 12:03 Temp 24 Hum 19
+04/21/16 12:03 Temp 24 Hum 19
+04/21/16 12:04 Temp 24 Hum 19
+04/21/16 12:06 Temp 24 Hum 19
+04/21/16 12:07 Temp 24 Hum 19
+04/21/16 12:08 Temp 24 Hum 19
+04/21/16 12:10 Temp 24 Hum 19
+04/21/16 12:10 Temp 24 Hum 19
+04/21/16 12:10 Temp 24 Hum 19
+04/21/16 12:10 Temp 24 Hum 19
+04/21/16 12:11 Temp 24 Hum 19
+04/21/16 12:12 Temp 24 Hum 19
+04/21/16 12:14 Temp 24 Hum 19
+04/21/16 12:14 Temp 24 Hum 19
+04/21/16 12:16 Temp 24 Hum 19
+04/21/16 12:17 Temp 24 Hum 19
+04/21/16 12:19 Temp 24 Hum 19
+04/21/16 12:19 Temp 24 Hum 19
+04/21/16 12:20 Temp 24 Hum 19
+04/21/16 12:22 Temp 24 Hum 19
+04/21/16 12:25 Temp 24 Hum 19
+04/21/16 12:26 Temp 24 Hum 19
+04/21/16 12:31 Temp 24 Hum 19
+04/21/16 12:32 Temp 24 Hum 19
+04/21/16 12:33 Temp 24 Hum 19
+04/21/16 12:33 Temp 24 Hum 19
+04/21/16 12:34 Temp 24 Hum 19
+04/21/16 12:35 Temp 24 Hum 19
+04/21/16 12:37 Temp 24 Hum 19
+04/21/16 12:38 Temp 24 Hum 19
+04/21/16 12:38 Temp 24 Hum 19
+04/21/16 12:39 Temp 24 Hum 19
+04/21/16 12:42 Temp 24 Hum 19
+04/21/16 12:44 Temp 24 Hum 19
+04/21/16 12:46 Temp 24 Hum 19
+04/21/16 12:47 Temp 24 Hum 19
+04/21/16 12:48 Temp 24 Hum 19
+04/21/16 12:49 Temp 24 Hum 19
+04/21/16 12:53 Temp 24 Hum 19
+04/21/16 12:53 Temp 24 Hum 19
+04/21/16 12:55 Temp 24 Hum 19
+04/21/16 12:56 Temp 24 Hum 19
+04/21/16 12:56 Temp 24 Hum 19
+04/21/16 12:56 Temp 24 Hum 19
+04/21/16 12:56 Temp 24 Hum 19
+04/21/16 12:57 Temp 24 Hum 19
+04/21/16 12:58 Temp 24 Hum 19
+04/21/16 12:59 Temp 24 Hum 19
+04/21/16 13:00 Temp 24 Hum 19
+04/21/16 13:00 Temp 24 Hum 19
+04/21/16 13:02 Temp 24 Hum 19
+04/21/16 13:02 Temp 24 Hum 19
+04/21/16 13:04 Temp 24 Hum 19
+04/21/16 13:04 Temp 24 Hum 19
+04/21/16 13:05 Temp 24 Hum 19
+04/21/16 13:05 Temp 24 Hum 19
+04/21/16 13:06 Temp 24 Hum 19
+04/21/16 13:08 Temp 24 Hum 19
+04/21/16 13:08 Temp 24 Hum 19
+04/21/16 13:10 Temp 24 Hum 19
+04/21/16 13:11 Temp 24 Hum 19
+04/21/16 13:13 Temp 24 Hum 19
+04/21/16 13:13 Temp 24 Hum 19
+04/21/16 13:13 Temp 24 Hum 19
+04/21/16 13:15 Temp 24 Hum 19
+04/21/16 13:15 Temp 24 Hum 19
+04/21/16 13:16 Temp 24 Hum 19
+04/21/16 13:17 Temp 24 Hum 19
+04/21/16 13:18 Temp 24 Hum 19
+04/21/16 13:19 Temp 24 Hum 19
+04/21/16 13:21 Temp 24 Hum 19
+04/21/16 13:24 Temp 24 Hum 19
+04/21/16 13:25 Temp 24 Hum 19
+04/21/16 13:29 Temp 24 Hum 19
+04/21/16 13:30 Temp 24 Hum 19
+04/21/16 13:31 Temp 24 Hum 19
+04/21/16 13:32 Temp 24 Hum 19
+04/21/16 13:33 Temp 24 Hum 19
+04/21/16 13:34 Temp 24 Hum 19
+04/21/16 13:36 Temp 24 Hum 19
+04/21/16 13:37 Temp 24 Hum 19
+04/21/16 13:41 Temp 24 Hum 19
+04/21/16 13:42 Temp 24 Hum 19
+04/21/16 13:43 Temp 24 Hum 19
+04/21/16 13:44 Temp 24 Hum 19
+04/21/16 13:44 Temp 24 Hum 19
+04/21/16 13:45 Temp 24 Hum 19
+04/21/16 13:46 Temp 24 Hum 19
+04/21/16 13:46 Temp 24 Hum 19
+04/21/16 13:47 Temp 24 Hum 19
+04/21/16 13:48 Temp 24 Hum 19
+04/21/16 13:48 Temp 24 Hum 19
+04/21/16 13:49 Temp 24 Hum 19
+04/21/16 13:50 Temp 24 Hum 19
+04/21/16 13:51 Temp 24 Hum 19
+04/21/16 13:51 Temp 24 Hum 19
+04/21/16 13:53 Temp 24 Hum 19
+04/21/16 13:54 Temp 24 Hum 19
+04/21/16 13:55 Temp 24 Hum 19
+04/21/16 13:56 Temp 24 Hum 19
+04/21/16 13:57 Temp 24 Hum 19
+04/21/16 13:59 Temp 24 Hum 19
+04/21/16 14:01 Temp 24 Hum 19
+04/21/16 14:02 Temp 24 Hum 19
+04/21/16 14:02 Temp 24 Hum 19
+04/21/16 14:02 Temp 24 Hum 19
+04/21/16 14:04 Temp 24 Hum 19
+04/21/16 14:04 Temp 24 Hum 19
+04/21/16 14:04 Temp 24 Hum 19
+04/21/16 14:05 Temp 24 Hum 19
+04/21/16 14:05 Temp 24 Hum 19
+04/21/16 14:06 Temp 24 Hum 19
+04/21/16 14:08 Temp 24 Hum 19
+04/21/16 14:08 Temp 24 Hum 19
+04/21/16 14:08 Temp 24 Hum 19
+04/21/16 14:11 Temp 24 Hum 19
+04/21/16 14:13 Temp 24 Hum 19
+04/21/16 14:14 Temp 24 Hum 19
+04/21/16 14:15 Temp 24 Hum 19
+04/21/16 14:15 Temp 24 Hum 19
+04/21/16 14:19 Temp 24 Hum 19
+04/21/16 14:20 Temp 24 Hum 19
+04/21/16 14:21 Temp 24 Hum 19
+04/21/16 14:27 Temp 24 Hum 19
+04/21/16 14:30 Temp 23 Hum 19
+04/21/16 14:31 Temp 23 Hum 19
+04/21/16 14:31 Temp 23 Hum 19
+04/21/16 14:39 Temp 23 Hum 19
+04/21/16 14:39 Temp 23 Hum 19
+04/21/16 14:42 Temp 23 Hum 19
