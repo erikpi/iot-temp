@@ -12,7 +12,8 @@ do
 
 		 cp -f $LOGFILE /var/www/temperatur.log
 	
-	sleep 2
+	
 	fi
+	sleep 2
 done
 
